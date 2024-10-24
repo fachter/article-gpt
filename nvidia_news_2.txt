@@ -1,0 +1,76 @@
+The chipmaker has delivered phenomenal gains over the past five years, and investors can expect the rally to continue in the future.
+
+Nvidia (NVDA 3.46%) stock has crushed the broader market handsomely over the past five years with eye-popping gains of more than 1,800% -- which is significantly higher than the S&P 500 index's gains of 71% -- and a big reason behind the chip giant's terrific surge is its dominant position in the artificial intelligence (AI) chip market.
+
+However, can Nvidia sustain its AI-driven growth for the next five years and deliver more gains to investors? Let's find out.
+
+
+Collapse
+
+NASDAQ: NVDA
+Nvidia
+Today's Change
+(3.46%) $29.72
+Current Price
+$887.89
+YTD
+1W
+1M
+3M
+6M
+1Y
+5Y
+PRICE
+VS S&P
+ NVDA
+KEY DATA POINTS
+Market Cap
+$2,220B
+Day's Range
+$870.40 - $892.81
+52wk Range
+$280.46 - $974.00
+Volume
+39,834,072
+Avg Vol
+53,634,351
+Gross Margin
+72.72%
+Dividend Yield
+0.02%
+The AI chip market's massive growth should be a long-term tailwind for Nvidia
+Allied Market Research estimates that the global AI chip market was worth just under $15 billion in 2022. However, by 2032, the market research firm expects sales of AI chips to generate annual revenue of nearly $384 billion. Nvidia is in the driver's seat in this space, controlling an estimated 94% of the AI chip market last year, per Vijay Rakesh of Mizuho Securities.
+
+Nvidia's first-mover advantage in AI chips has paid off handsomely for the company. Its graphics cards have been extremely popular and deployed by major cloud computing providers and start-ups to train AI models, including ChatGPT. As a result, Nvidia's data center revenue has been growing at a stunning rate. In fiscal 2024, which ended on Jan. 28, 2024, the company reported data center revenue of $47.5 billion, up a massive 217% from the previous year.
+
+Nvidia, however, is expected to cede some ground in the AI chip market to rivals. Rakesh, for instance, expects the company's AI chip share to slip to 75% over the next couple of years as the likes of Intel (INTC 1.28%) and Advanced Micro Devices (AMD 3.04%) bring competitive offerings into the market. AMD witnessed an 80% year-over-year increase in sales of its data center chips in the first quarter of 2024 to $2.3 billion, thanks to the growing demand for its AI accelerators.
+
+The Nvidia competitor expects to sell $4 billion worth of AI graphics cards this year, which is double its initial estimate of $2 billion. Analysts, however, expect AMD to end the year with as much as $8 billion in revenue from sales of AI-focused data center chips.
+
+Intel management also pointed out on the company's latest earnings conference call that its new Gaudi 3 data center accelerators are gaining traction and could generate $500 million in revenue in the second half of 2024, followed by a stronger showing next year. Nvidia, however, is expected to be in a league of its own.
+
+According to market research firm Omdia, the chipmaker could sell $87 billion worth of data center graphics cards this year. That would be a huge jump from the $34 billion the company generated through data center chip sales last year. Even better, Rakesh forecasts Nvidia could sell $280 billion worth of data center graphics cards in 2027 despite the potential loss in market share. That's not surprising, considering how fast this space is growing.
+
+In simple words, there is enough room for Nvidia to grow in the AI chip market even if the competition gets stronger. Throw in the potential growth the company could witness in other markets, such as gaming, it is easy to see why analysts expect Nvidia to clock healthy earnings growth for the next five years.
+
+How much upside can investors expect over the next five years?
+Consensus estimates predict Nvidia's earnings will increase at an annual rate of just over 35% for the next five years. Based on the company's fiscal 2024 earnings of $12.96 per share, its bottom line could jump to $58.11 per share after five years, assuming it does increase at the predicted rate.
+
+The good part is that the company seems capable of delivering the growth that analysts are expecting from it based on the points discussed above and Nvidia's commanding pricing power in the AI chip space. Not surprisingly, analysts bumped up Nvidia's earnings estimates significantly for the current and the next two fiscal years, as seen in the chart below.
+
+NVDA EPS Estimates for Current Fiscal Year Chart
+
+NVDA EPS ESTIMATES FOR CURRENT FISCAL YEAR DATA BY YCHARTS
+
+As such, there is a good chance that Nvidia's earnings could indeed touch the projected $58.11 per share after five years. Multiplying the projected earnings with Nvidia's five-year average forward earnings multiple of 39 suggests that its stock price could hit $2,266 per share (barring any stock splits or other events) after five years. That would translate into a jump of 162% from current levels.
+
+So, investors who haven't bought this AI stock yet can still consider doing so, as its impressive rally seems sustainable over the next five years.
+
+Should you invest $1,000 in Nvidia right now?
+Before you buy stock in Nvidia, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $544,015!*
+
+As you can see, Stock Advisor members who bought and held our recommendation have been handsomely rewarded. Don’t miss out on the latest 10 top list.
